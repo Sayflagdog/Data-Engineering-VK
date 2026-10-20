@@ -1,0 +1,15 @@
+{
+  "vacancies": 6503,
+  "threads": 2,
+  "compute_seconds": 7.486810897000396,
+  "unique_keys": [
+    1661,
+    25987,
+    192009
+  ],
+  "emissions": [
+    36415,
+    177876,
+    697421
+  ]
+}

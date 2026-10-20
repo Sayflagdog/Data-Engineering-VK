@@ -1,0 +1,26 @@
+{
+  "method": "mapreduce",
+  "cap": 30,
+  "repeat": 99,
+  "wall_seconds": 22.58184281900003,
+  "peak_rss_mib": 268.66015625,
+  "compute_seconds": 19.968135090000033,
+  "file": "mapreduce_cap30_run99_failure.csv",
+  "vacancies": 6503,
+  "chunks_committed": 7,
+  "mapper_failure_observed": true,
+  "recovered_batches": 1,
+  "workers": 2,
+  "chunk_rows": 1000,
+  "unique_keys": [
+    1661,
+    25987,
+    192009
+  ],
+  "emissions": [
+    36415,
+    177876,
+    697421
+  ],
+  "exact_match": true
+}

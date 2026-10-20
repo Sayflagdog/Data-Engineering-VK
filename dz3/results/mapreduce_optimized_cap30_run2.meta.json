@@ -1,0 +1,19 @@
+{
+  "vacancies": 6503,
+  "chunks_committed": 7,
+  "mapper_failure_observed": false,
+  "recovered_batches": 0,
+  "workers": 2,
+  "chunk_rows": 1000,
+  "compute_seconds": 19.78452016600022,
+  "unique_keys": [
+    1661,
+    25987,
+    192009
+  ],
+  "emissions": [
+    36415,
+    177876,
+    697421
+  ]
+}

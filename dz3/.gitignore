@@ -1,0 +1,11 @@
+private_config.json
+storage/
+rustfs
+rustfs.zip
+rustfs.log
+.duckdb_extensions/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+it_vacancies_2024.csv*
+devops_code*.zip

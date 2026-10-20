@@ -1,0 +1,20 @@
+{
+  "ready": true,
+  "utc": "2026-10-20T12:07:49.202389+00:00",
+  "checks": [
+    "storage.json",
+    "data_quality.json",
+    "benchmark_runs.csv",
+    "benchmark_summary.csv",
+    "verification.json",
+    "mapper_failure.json",
+    "analysis_verification.json",
+    "salary_all_supported.csv",
+    "salary_top.csv",
+    "regions_summary.csv",
+    "regions_skills_pairs_triples.csv",
+    "s3_objects.json"
+  ],
+  "pdf_visual_review": "Проверены страницы PDF и DOCX, 17 страниц; график и скриншоты проверены",
+  "docx_editable_tables": 17
+}

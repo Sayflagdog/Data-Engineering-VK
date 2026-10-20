@@ -1,0 +1,132 @@
+{
+  "all_exact": true,
+  "checks": [
+    {
+      "cap": 5,
+      "file": "mapreduce_cap5_run1.csv",
+      "compared_keys": 16616,
+      "mismatches": 0
+    },
+    {
+      "cap": 5,
+      "file": "duckdb_cap5_run1.csv",
+      "compared_keys": 16616,
+      "mismatches": 0
+    },
+    {
+      "cap": 5,
+      "file": "duckdb_cap5_run2.csv",
+      "compared_keys": 16616,
+      "mismatches": 0
+    },
+    {
+      "cap": 5,
+      "file": "mapreduce_cap5_run2.csv",
+      "compared_keys": 16616,
+      "mismatches": 0
+    },
+    {
+      "cap": 5,
+      "file": "mapreduce_cap5_run3.csv",
+      "compared_keys": 16616,
+      "mismatches": 0
+    },
+    {
+      "cap": 5,
+      "file": "duckdb_cap5_run3.csv",
+      "compared_keys": 16616,
+      "mismatches": 0
+    },
+    {
+      "cap": 10,
+      "file": "mapreduce_cap10_run1.csv",
+      "compared_keys": 75865,
+      "mismatches": 0
+    },
+    {
+      "cap": 10,
+      "file": "duckdb_cap10_run1.csv",
+      "compared_keys": 75865,
+      "mismatches": 0
+    },
+    {
+      "cap": 10,
+      "file": "duckdb_cap10_run2.csv",
+      "compared_keys": 75865,
+      "mismatches": 0
+    },
+    {
+      "cap": 10,
+      "file": "mapreduce_cap10_run2.csv",
+      "compared_keys": 75865,
+      "mismatches": 0
+    },
+    {
+      "cap": 10,
+      "file": "mapreduce_cap10_run3.csv",
+      "compared_keys": 75865,
+      "mismatches": 0
+    },
+    {
+      "cap": 10,
+      "file": "duckdb_cap10_run3.csv",
+      "compared_keys": 75865,
+      "mismatches": 0
+    },
+    {
+      "cap": 30,
+      "file": "mapreduce_cap30_run1.csv",
+      "compared_keys": 219657,
+      "mismatches": 0
+    },
+    {
+      "cap": 30,
+      "file": "duckdb_cap30_run1.csv",
+      "compared_keys": 219657,
+      "mismatches": 0
+    },
+    {
+      "cap": 30,
+      "file": "duckdb_cap30_run2.csv",
+      "compared_keys": 219657,
+      "mismatches": 0
+    },
+    {
+      "cap": 30,
+      "file": "mapreduce_cap30_run2.csv",
+      "compared_keys": 219657,
+      "mismatches": 0
+    },
+    {
+      "cap": 30,
+      "file": "mapreduce_cap30_run3.csv",
+      "compared_keys": 219657,
+      "mismatches": 0
+    },
+    {
+      "cap": 30,
+      "file": "duckdb_cap30_run3.csv",
+      "compared_keys": 219657,
+      "mismatches": 0
+    },
+    {
+      "cap": 30,
+      "file": "mapreduce_optimized_cap30_run1.csv",
+      "compared_keys": 219657,
+      "mismatches": 0
+    },
+    {
+      "cap": 30,
+      "file": "mapreduce_optimized_cap30_run2.csv",
+      "compared_keys": 219657,
+      "mismatches": 0
+    },
+    {
+      "cap": 30,
+      "file": "mapreduce_optimized_cap30_run3.csv",
+      "compared_keys": 219657,
+      "mismatches": 0
+    }
+  ],
+  "failure_exact": true
+}

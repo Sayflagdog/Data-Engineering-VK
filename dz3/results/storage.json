@@ -1,0 +1,7 @@
+{
+  "source": "s3://hh-lake/raw/it_vacancies_2024.csv",
+  "bytes": 847619384,
+  "sha256": "303db922b541e4440906f5a7e8be32fb55e8808f950ffddb8c272f1548212a65",
+  "roundtrip_match": true,
+  "head_bytes": 847619384
+}

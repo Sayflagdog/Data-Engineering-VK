@@ -1,0 +1,22 @@
+mapreduce cap 5 run 1 seconds 25.435 RSS MiB 165.3
+duckdb cap 5 run 1 seconds 7.054 RSS MiB 634.3
+duckdb cap 5 run 2 seconds 14.456 RSS MiB 655.7
+mapreduce cap 5 run 2 seconds 20.439 RSS MiB 165.5
+mapreduce cap 5 run 3 seconds 19.539 RSS MiB 164.9
+duckdb cap 5 run 3 seconds 13.962 RSS MiB 646.4
+mapreduce cap 10 run 1 seconds 21.101 RSS MiB 190.5
+duckdb cap 10 run 1 seconds 9.005 RSS MiB 641.6
+duckdb cap 10 run 2 seconds 9.523 RSS MiB 643.0
+mapreduce cap 10 run 2 seconds 20.62 RSS MiB 190.3
+mapreduce cap 10 run 3 seconds 21.032 RSS MiB 190.7
+duckdb cap 10 run 3 seconds 7.454 RSS MiB 650.7
+mapreduce cap 30 run 1 seconds 22.559 RSS MiB 217.5
+duckdb cap 30 run 1 seconds 14.255 RSS MiB 651.7
+duckdb cap 30 run 2 seconds 12.457 RSS MiB 648.8
+mapreduce cap 30 run 2 seconds 23.371 RSS MiB 225.8
+mapreduce cap 30 run 3 seconds 22.612 RSS MiB 218.2
+duckdb cap 30 run 3 seconds 12.436 RSS MiB 654.3
+optimized 1 23.169 223.1
+optimized 2 22.356 216.8
+optimized 3 22.421 216.5
+ALL FULL FREQUENCY TABLES MATCH; MAPPER FAILURE RECOVERED

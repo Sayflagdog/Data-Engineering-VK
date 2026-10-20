@@ -1,0 +1,35 @@
+S3 result objects: 90
+[
+  {
+    "key": "results/devops/analysis.json",
+    "bytes": 13532
+  },
+  {
+    "key": "results/devops/analysis_verification.json",
+    "bytes": 125
+  },
+  {
+    "key": "results/devops/benchmark_raw.json",
+    "bytes": 9664
+  },
+  {
+    "key": "results/devops/benchmark_runs.csv",
+    "bytes": 1958
+  },
+  {
+    "key": "results/devops/benchmark_summary.csv",
+    "bytes": 642
+  },
+  {
+    "key": "results/devops/data_quality.json",
+    "bytes": 7027
+  },
+  {
+    "key": "results/devops/duckdb_cap10_run1.csv",
+    "bytes": 4128158
+  },
+  {
+    "key": "results/devops/duckdb_cap10_run1.meta.json",
+    "bytes": 190
+  }
+]

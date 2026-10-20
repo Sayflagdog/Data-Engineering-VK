@@ -1,0 +1,362 @@
+[
+  {
+    "key": "results/devops/analysis.json",
+    "bytes": 13532
+  },
+  {
+    "key": "results/devops/analysis_verification.json",
+    "bytes": 125
+  },
+  {
+    "key": "results/devops/benchmark_raw.json",
+    "bytes": 9664
+  },
+  {
+    "key": "results/devops/benchmark_runs.csv",
+    "bytes": 1958
+  },
+  {
+    "key": "results/devops/benchmark_summary.csv",
+    "bytes": 642
+  },
+  {
+    "key": "results/devops/data_quality.json",
+    "bytes": 7027
+  },
+  {
+    "key": "results/devops/duckdb_cap10_run1.csv",
+    "bytes": 4128158
+  },
+  {
+    "key": "results/devops/duckdb_cap10_run1.meta.json",
+    "bytes": 190
+  },
+  {
+    "key": "results/devops/duckdb_cap10_run2.csv",
+    "bytes": 4128158
+  },
+  {
+    "key": "results/devops/duckdb_cap10_run2.meta.json",
+    "bytes": 190
+  },
+  {
+    "key": "results/devops/duckdb_cap10_run3.csv",
+    "bytes": 4128158
+  },
+  {
+    "key": "results/devops/duckdb_cap10_run3.meta.json",
+    "bytes": 190
+  },
+  {
+    "key": "results/devops/duckdb_cap30_run1.csv",
+    "bytes": 12934136
+  },
+  {
+    "key": "results/devops/duckdb_cap30_run1.meta.json",
+    "bytes": 192
+  },
+  {
+    "key": "results/devops/duckdb_cap30_run2.csv",
+    "bytes": 12934136
+  },
+  {
+    "key": "results/devops/duckdb_cap30_run2.meta.json",
+    "bytes": 190
+  },
+  {
+    "key": "results/devops/duckdb_cap30_run3.csv",
+    "bytes": 12934136
+  },
+  {
+    "key": "results/devops/duckdb_cap30_run3.meta.json",
+    "bytes": 191
+  },
+  {
+    "key": "results/devops/duckdb_cap5_run1.csv",
+    "bytes": 815976
+  },
+  {
+    "key": "results/devops/duckdb_cap5_run1.meta.json",
+    "bytes": 186
+  },
+  {
+    "key": "results/devops/duckdb_cap5_run2.csv",
+    "bytes": 815976
+  },
+  {
+    "key": "results/devops/duckdb_cap5_run2.meta.json",
+    "bytes": 186
+  },
+  {
+    "key": "results/devops/duckdb_cap5_run3.csv",
+    "bytes": 815976
+  },
+  {
+    "key": "results/devops/duckdb_cap5_run3.meta.json",
+    "bytes": 187
+  },
+  {
+    "key": "results/devops/environment.json",
+    "bytes": 400
+  },
+  {
+    "key": "results/devops/filter_excluded_examples.csv",
+    "bytes": 2375
+  },
+  {
+    "key": "results/devops/filter_included.csv",
+    "bytes": 2433
+  },
+  {
+    "key": "results/devops/logs/analysis.log",
+    "bytes": 13533
+  },
+  {
+    "key": "results/devops/logs/benchmark.log",
+    "bytes": 1031
+  },
+  {
+    "key": "results/devops/logs/bootstrap_run.log",
+    "bytes": 33
+  },
+  {
+    "key": "results/devops/logs/duckdb_cap10_run1.log",
+    "bytes": 147
+  },
+  {
+    "key": "results/devops/logs/duckdb_cap10_run2.log",
+    "bytes": 147
+  },
+  {
+    "key": "results/devops/logs/duckdb_cap10_run3.log",
+    "bytes": 147
+  },
+  {
+    "key": "results/devops/logs/duckdb_cap30_run1.log",
+    "bytes": 149
+  },
+  {
+    "key": "results/devops/logs/duckdb_cap30_run2.log",
+    "bytes": 147
+  },
+  {
+    "key": "results/devops/logs/duckdb_cap30_run3.log",
+    "bytes": 148
+  },
+  {
+    "key": "results/devops/logs/duckdb_cap5_run1.log",
+    "bytes": 143
+  },
+  {
+    "key": "results/devops/logs/duckdb_cap5_run2.log",
+    "bytes": 143
+  },
+  {
+    "key": "results/devops/logs/duckdb_cap5_run3.log",
+    "bytes": 144
+  },
+  {
+    "key": "results/devops/logs/mapreduce_cap10_run1.log",
+    "bytes": 249
+  },
+  {
+    "key": "results/devops/logs/mapreduce_cap10_run2.log",
+    "bytes": 249
+  },
+  {
+    "key": "results/devops/logs/mapreduce_cap10_run3.log",
+    "bytes": 248
+  },
+  {
+    "key": "results/devops/logs/mapreduce_cap30_run1.log",
+    "bytes": 249
+  },
+  {
+    "key": "results/devops/logs/mapreduce_cap30_run2.log",
+    "bytes": 250
+  },
+  {
+    "key": "results/devops/logs/mapreduce_cap30_run3.log",
+    "bytes": 250
+  },
+  {
+    "key": "results/devops/logs/mapreduce_cap30_run99_failure.log",
+    "bytes": 249
+  },
+  {
+    "key": "results/devops/logs/mapreduce_cap5_run1.log",
+    "bytes": 245
+  },
+  {
+    "key": "results/devops/logs/mapreduce_cap5_run2.log",
+    "bytes": 245
+  },
+  {
+    "key": "results/devops/logs/mapreduce_cap5_run3.log",
+    "bytes": 245
+  },
+  {
+    "key": "results/devops/logs/mapreduce_optimized_cap30_run1.log",
+    "bytes": 249
+  },
+  {
+    "key": "results/devops/logs/mapreduce_optimized_cap30_run2.log",
+    "bytes": 249
+  },
+  {
+    "key": "results/devops/logs/mapreduce_optimized_cap30_run3.log",
+    "bytes": 250
+  },
+  {
+    "key": "results/devops/logs/pipeline_profile.log",
+    "bytes": 7028
+  },
+  {
+    "key": "results/devops/logs/pipeline_upload.log",
+    "bytes": 213
+  },
+  {
+    "key": "results/devops/logs/publish.log",
+    "bytes": 0
+  },
+  {
+    "key": "results/devops/logs/verify-analysis.log",
+    "bytes": 126
+  },
+  {
+    "key": "results/devops/mapper_failure.json",
+    "bytes": 493
+  },
+  {
+    "key": "results/devops/mapreduce_cap10_run1.csv",
+    "bytes": 4128158
+  },
+  {
+    "key": "results/devops/mapreduce_cap10_run1.meta.json",
+    "bytes": 300
+  },
+  {
+    "key": "results/devops/mapreduce_cap10_run2.csv",
+    "bytes": 4128158
+  },
+  {
+    "key": "results/devops/mapreduce_cap10_run2.meta.json",
+    "bytes": 300
+  },
+  {
+    "key": "results/devops/mapreduce_cap10_run3.csv",
+    "bytes": 4128158
+  },
+  {
+    "key": "results/devops/mapreduce_cap10_run3.meta.json",
+    "bytes": 299
+  },
+  {
+    "key": "results/devops/mapreduce_cap30_run1.csv",
+    "bytes": 12934136
+  },
+  {
+    "key": "results/devops/mapreduce_cap30_run1.meta.json",
+    "bytes": 300
+  },
+  {
+    "key": "results/devops/mapreduce_cap30_run2.csv",
+    "bytes": 12934136
+  },
+  {
+    "key": "results/devops/mapreduce_cap30_run2.meta.json",
+    "bytes": 301
+  },
+  {
+    "key": "results/devops/mapreduce_cap30_run3.csv",
+    "bytes": 12934136
+  },
+  {
+    "key": "results/devops/mapreduce_cap30_run3.meta.json",
+    "bytes": 301
+  },
+  {
+    "key": "results/devops/mapreduce_cap30_run99_failure.csv",
+    "bytes": 12934136
+  },
+  {
+    "key": "results/devops/mapreduce_cap30_run99_failure.meta.json",
+    "bytes": 300
+  },
+  {
+    "key": "results/devops/mapreduce_cap5_run1.csv",
+    "bytes": 815976
+  },
+  {
+    "key": "results/devops/mapreduce_cap5_run1.meta.json",
+    "bytes": 296
+  },
+  {
+    "key": "results/devops/mapreduce_cap5_run2.csv",
+    "bytes": 815976
+  },
+  {
+    "key": "results/devops/mapreduce_cap5_run2.meta.json",
+    "bytes": 296
+  },
+  {
+    "key": "results/devops/mapreduce_cap5_run3.csv",
+    "bytes": 815976
+  },
+  {
+    "key": "results/devops/mapreduce_cap5_run3.meta.json",
+    "bytes": 296
+  },
+  {
+    "key": "results/devops/mapreduce_optimized_cap30_run1.csv",
+    "bytes": 12934136
+  },
+  {
+    "key": "results/devops/mapreduce_optimized_cap30_run1.meta.json",
+    "bytes": 300
+  },
+  {
+    "key": "results/devops/mapreduce_optimized_cap30_run2.csv",
+    "bytes": 12934136
+  },
+  {
+    "key": "results/devops/mapreduce_optimized_cap30_run2.meta.json",
+    "bytes": 300
+  },
+  {
+    "key": "results/devops/mapreduce_optimized_cap30_run3.csv",
+    "bytes": 12934136
+  },
+  {
+    "key": "results/devops/mapreduce_optimized_cap30_run3.meta.json",
+    "bytes": 301
+  },
+  {
+    "key": "results/devops/regions_skills_pairs_triples.csv",
+    "bytes": 6850
+  },
+  {
+    "key": "results/devops/regions_summary.csv",
+    "bytes": 338
+  },
+  {
+    "key": "results/devops/salary_all_supported.csv",
+    "bytes": 145628
+  },
+  {
+    "key": "results/devops/salary_experience.csv",
+    "bytes": 174
+  },
+  {
+    "key": "results/devops/salary_top.csv",
+    "bytes": 3747
+  },
+  {
+    "key": "results/devops/storage.json",
+    "bytes": 212
+  },
+  {
+    "key": "results/devops/verification.json",
+    "bytes": 2670
+  }
+]

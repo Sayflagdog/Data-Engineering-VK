@@ -1,0 +1,15 @@
+{
+  "utc": "2026-10-20T11:52:18.508314+00:00",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "python": "3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]",
+  "cpu_count": 2,
+  "ram_gib": 12.671409606933594,
+  "packages": {
+    "duckdb": "1.4.1",
+    "boto3": "1.43.115",
+    "psutil": "5.9.5",
+    "reportlab": "5.0.1",
+    "matplotlib": "3.10.0"
+  },
+  "environment": "Google Colab CPU"
+}

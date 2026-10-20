@@ -1,0 +1,491 @@
+[
+  {
+    "method": "mapreduce",
+    "cap": 5,
+    "repeat": 1,
+    "wall_seconds": 25.435388556000134,
+    "peak_rss_mib": 165.26953125,
+    "compute_seconds": 24.967308021999997,
+    "file": "mapreduce_cap5_run1.csv",
+    "vacancies": 6503,
+    "chunks_committed": 7,
+    "mapper_failure_observed": false,
+    "recovered_batches": 0,
+    "workers": 2,
+    "chunk_rows": 1000,
+    "unique_keys": [
+      984,
+      5602,
+      10030
+    ],
+    "emissions": [
+      20605,
+      39013,
+      37498
+    ]
+  },
+  {
+    "method": "duckdb",
+    "cap": 5,
+    "repeat": 1,
+    "wall_seconds": 7.05365586500011,
+    "peak_rss_mib": 634.25390625,
+    "compute_seconds": 6.597730777000152,
+    "file": "duckdb_cap5_run1.csv",
+    "vacancies": 6503,
+    "threads": 2,
+    "unique_keys": [
+      984,
+      5602,
+      10030
+    ],
+    "emissions": [
+      20605,
+      39013,
+      37498
+    ]
+  },
+  {
+    "method": "duckdb",
+    "cap": 5,
+    "repeat": 2,
+    "wall_seconds": 14.456103621000011,
+    "peak_rss_mib": 655.6796875,
+    "compute_seconds": 14.00153972000021,
+    "file": "duckdb_cap5_run2.csv",
+    "vacancies": 6503,
+    "threads": 2,
+    "unique_keys": [
+      984,
+      5602,
+      10030
+    ],
+    "emissions": [
+      20605,
+      39013,
+      37498
+    ]
+  },
+  {
+    "method": "mapreduce",
+    "cap": 5,
+    "repeat": 2,
+    "wall_seconds": 20.439277959000037,
+    "peak_rss_mib": 165.515625,
+    "compute_seconds": 19.919301273999963,
+    "file": "mapreduce_cap5_run2.csv",
+    "vacancies": 6503,
+    "chunks_committed": 7,
+    "mapper_failure_observed": false,
+    "recovered_batches": 0,
+    "workers": 2,
+    "chunk_rows": 1000,
+    "unique_keys": [
+      984,
+      5602,
+      10030
+    ],
+    "emissions": [
+      20605,
+      39013,
+      37498
+    ]
+  },
+  {
+    "method": "mapreduce",
+    "cap": 5,
+    "repeat": 3,
+    "wall_seconds": 19.539354741999887,
+    "peak_rss_mib": 164.94921875,
+    "compute_seconds": 19.120246235999957,
+    "file": "mapreduce_cap5_run3.csv",
+    "vacancies": 6503,
+    "chunks_committed": 7,
+    "mapper_failure_observed": false,
+    "recovered_batches": 0,
+    "workers": 2,
+    "chunk_rows": 1000,
+    "unique_keys": [
+      984,
+      5602,
+      10030
+    ],
+    "emissions": [
+      20605,
+      39013,
+      37498
+    ]
+  },
+  {
+    "method": "duckdb",
+    "cap": 5,
+    "repeat": 3,
+    "wall_seconds": 13.961689482999873,
+    "peak_rss_mib": 646.3828125,
+    "compute_seconds": 13.525403803000017,
+    "file": "duckdb_cap5_run3.csv",
+    "vacancies": 6503,
+    "threads": 2,
+    "unique_keys": [
+      984,
+      5602,
+      10030
+    ],
+    "emissions": [
+      20605,
+      39013,
+      37498
+    ]
+  },
+  {
+    "method": "mapreduce",
+    "cap": 10,
+    "repeat": 1,
+    "wall_seconds": 21.100695275999897,
+    "peak_rss_mib": 190.5078125,
+    "compute_seconds": 19.392136936000043,
+    "file": "mapreduce_cap10_run1.csv",
+    "vacancies": 6503,
+    "chunks_committed": 7,
+    "mapper_failure_observed": false,
+    "recovered_batches": 0,
+    "workers": 2,
+    "chunk_rows": 1000,
+    "unique_keys": [
+      1378,
+      14615,
+      59872
+    ],
+    "emissions": [
+      31317,
+      110000,
+      247273
+    ]
+  },
+  {
+    "method": "duckdb",
+    "cap": 10,
+    "repeat": 1,
+    "wall_seconds": 9.004775633000008,
+    "peak_rss_mib": 641.61328125,
+    "compute_seconds": 7.924774614999933,
+    "file": "duckdb_cap10_run1.csv",
+    "vacancies": 6503,
+    "threads": 2,
+    "unique_keys": [
+      1378,
+      14615,
+      59872
+    ],
+    "emissions": [
+      31317,
+      110000,
+      247273
+    ]
+  },
+  {
+    "method": "duckdb",
+    "cap": 10,
+    "repeat": 2,
+    "wall_seconds": 9.52307113400002,
+    "peak_rss_mib": 642.9609375,
+    "compute_seconds": 7.884174025999982,
+    "file": "duckdb_cap10_run2.csv",
+    "vacancies": 6503,
+    "threads": 2,
+    "unique_keys": [
+      1378,
+      14615,
+      59872
+    ],
+    "emissions": [
+      31317,
+      110000,
+      247273
+    ]
+  },
+  {
+    "method": "mapreduce",
+    "cap": 10,
+    "repeat": 2,
+    "wall_seconds": 20.620039771999927,
+    "peak_rss_mib": 190.34375,
+    "compute_seconds": 18.891894588000014,
+    "file": "mapreduce_cap10_run2.csv",
+    "vacancies": 6503,
+    "chunks_committed": 7,
+    "mapper_failure_observed": false,
+    "recovered_batches": 0,
+    "workers": 2,
+    "chunk_rows": 1000,
+    "unique_keys": [
+      1378,
+      14615,
+      59872
+    ],
+    "emissions": [
+      31317,
+      110000,
+      247273
+    ]
+  },
+  {
+    "method": "mapreduce",
+    "cap": 10,
+    "repeat": 3,
+    "wall_seconds": 21.031915619999836,
+    "peak_rss_mib": 190.66796875,
+    "compute_seconds": 19.30269754599999,
+    "file": "mapreduce_cap10_run3.csv",
+    "vacancies": 6503,
+    "chunks_committed": 7,
+    "mapper_failure_observed": false,
+    "recovered_batches": 0,
+    "workers": 2,
+    "chunk_rows": 1000,
+    "unique_keys": [
+      1378,
+      14615,
+      59872
+    ],
+    "emissions": [
+      31317,
+      110000,
+      247273
+    ]
+  },
+  {
+    "method": "duckdb",
+    "cap": 10,
+    "repeat": 3,
+    "wall_seconds": 7.4538412060001065,
+    "peak_rss_mib": 650.703125,
+    "compute_seconds": 6.332409389000077,
+    "file": "duckdb_cap10_run3.csv",
+    "vacancies": 6503,
+    "threads": 2,
+    "unique_keys": [
+      1378,
+      14615,
+      59872
+    ],
+    "emissions": [
+      31317,
+      110000,
+      247273
+    ]
+  },
+  {
+    "method": "mapreduce",
+    "cap": 30,
+    "repeat": 1,
+    "wall_seconds": 22.558511641000223,
+    "peak_rss_mib": 217.49609375,
+    "compute_seconds": 19.97203067099963,
+    "file": "mapreduce_cap30_run1.csv",
+    "vacancies": 6503,
+    "chunks_committed": 7,
+    "mapper_failure_observed": false,
+    "recovered_batches": 0,
+    "workers": 2,
+    "chunk_rows": 1000,
+    "unique_keys": [
+      1661,
+      25987,
+      192009
+    ],
+    "emissions": [
+      36415,
+      177876,
+      697421
+    ]
+  },
+  {
+    "method": "duckdb",
+    "cap": 30,
+    "repeat": 1,
+    "wall_seconds": 14.255169536000267,
+    "peak_rss_mib": 651.6640625,
+    "compute_seconds": 11.172818667000229,
+    "file": "duckdb_cap30_run1.csv",
+    "vacancies": 6503,
+    "threads": 2,
+    "unique_keys": [
+      1661,
+      25987,
+      192009
+    ],
+    "emissions": [
+      36415,
+      177876,
+      697421
+    ]
+  },
+  {
+    "method": "duckdb",
+    "cap": 30,
+    "repeat": 2,
+    "wall_seconds": 12.457139734000066,
+    "peak_rss_mib": 648.80859375,
+    "compute_seconds": 7.42204843799982,
+    "file": "duckdb_cap30_run2.csv",
+    "vacancies": 6503,
+    "threads": 2,
+    "unique_keys": [
+      1661,
+      25987,
+      192009
+    ],
+    "emissions": [
+      36415,
+      177876,
+      697421
+    ]
+  },
+  {
+    "method": "mapreduce",
+    "cap": 30,
+    "repeat": 2,
+    "wall_seconds": 23.371126983000067,
+    "peak_rss_mib": 225.8359375,
+    "compute_seconds": 19.925201355000354,
+    "file": "mapreduce_cap30_run2.csv",
+    "vacancies": 6503,
+    "chunks_committed": 7,
+    "mapper_failure_observed": false,
+    "recovered_batches": 0,
+    "workers": 2,
+    "chunk_rows": 1000,
+    "unique_keys": [
+      1661,
+      25987,
+      192009
+    ],
+    "emissions": [
+      36415,
+      177876,
+      697421
+    ]
+  },
+  {
+    "method": "mapreduce",
+    "cap": 30,
+    "repeat": 3,
+    "wall_seconds": 22.611681520000275,
+    "peak_rss_mib": 218.2421875,
+    "compute_seconds": 20.054587421999713,
+    "file": "mapreduce_cap30_run3.csv",
+    "vacancies": 6503,
+    "chunks_committed": 7,
+    "mapper_failure_observed": false,
+    "recovered_batches": 0,
+    "workers": 2,
+    "chunk_rows": 1000,
+    "unique_keys": [
+      1661,
+      25987,
+      192009
+    ],
+    "emissions": [
+      36415,
+      177876,
+      697421
+    ]
+  },
+  {
+    "method": "duckdb",
+    "cap": 30,
+    "repeat": 3,
+    "wall_seconds": 12.435898167000232,
+    "peak_rss_mib": 654.26171875,
+    "compute_seconds": 7.486810897000396,
+    "file": "duckdb_cap30_run3.csv",
+    "vacancies": 6503,
+    "threads": 2,
+    "unique_keys": [
+      1661,
+      25987,
+      192009
+    ],
+    "emissions": [
+      36415,
+      177876,
+      697421
+    ]
+  },
+  {
+    "method": "mapreduce_optimized",
+    "cap": 30,
+    "repeat": 1,
+    "wall_seconds": 23.168540115999804,
+    "peak_rss_mib": 223.0625,
+    "compute_seconds": 19.52632146299993,
+    "file": "mapreduce_optimized_cap30_run1.csv",
+    "vacancies": 6503,
+    "chunks_committed": 7,
+    "mapper_failure_observed": false,
+    "recovered_batches": 0,
+    "workers": 2,
+    "chunk_rows": 1000,
+    "unique_keys": [
+      1661,
+      25987,
+      192009
+    ],
+    "emissions": [
+      36415,
+      177876,
+      697421
+    ]
+  },
+  {
+    "method": "mapreduce_optimized",
+    "cap": 30,
+    "repeat": 2,
+    "wall_seconds": 22.356076695999946,
+    "peak_rss_mib": 216.83203125,
+    "compute_seconds": 19.78452016600022,
+    "file": "mapreduce_optimized_cap30_run2.csv",
+    "vacancies": 6503,
+    "chunks_committed": 7,
+    "mapper_failure_observed": false,
+    "recovered_batches": 0,
+    "workers": 2,
+    "chunk_rows": 1000,
+    "unique_keys": [
+      1661,
+      25987,
+      192009
+    ],
+    "emissions": [
+      36415,
+      177876,
+      697421
+    ]
+  },
+  {
+    "method": "mapreduce_optimized",
+    "cap": 30,
+    "repeat": 3,
+    "wall_seconds": 22.421036083000217,
+    "peak_rss_mib": 216.484375,
+    "compute_seconds": 19.875805967999895,
+    "file": "mapreduce_optimized_cap30_run3.csv",
+    "vacancies": 6503,
+    "chunks_committed": 7,
+    "mapper_failure_observed": false,
+    "recovered_batches": 0,
+    "workers": 2,
+    "chunk_rows": 1000,
+    "unique_keys": [
+      1661,
+      25987,
+      192009
+    ],
+    "emissions": [
+      36415,
+      177876,
+      697421
+    ]
+  }
+]

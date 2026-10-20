@@ -1,0 +1,6 @@
+{
+  "python_vs_duckdb_exact": true,
+  "supported_combinations_checked": 1285,
+  "salary_rows": 1108,
+  "regions_checked": 3
+}
